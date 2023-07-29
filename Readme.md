@@ -80,7 +80,7 @@ If you have any suggestions or spot any mistakes, please let us know by creating
 **Rate Limit**: *240 requests per minute*
 
  **Maintainer Remarks**:
-> :warning: The basic plan does not support https. So your requests will be encrypted. This is a big security risk so make sure you know what you are doing.
+> :warning: The basic plan does not support https. So your requests will not be encrypted. This is a big security risk so make sure you know what you are doing.
 
 
 
