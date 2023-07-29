@@ -10,7 +10,7 @@ If you have any suggestions or spot any mistakes, please let us know by creating
 ## 1. [PDFEndpoint](https://pdfendpoint.com) ([Documentation](https://pdfendpoint.com/docs/))
 
 
-**Playground**: [pdfendpoint.com/playground](https://pdfendpoint.com/playground)
+**Playground**: [Open Playground](https://pdfendpoint.com/playground)
 > The playground allows you to test the API without having to sign up for free. We think this is the best playground in this list so be sure to give it a try!
 
 **Pricing**: *Monthly Subscription* - [Pricing Page](https://pdfendpoint.com/pricing)
