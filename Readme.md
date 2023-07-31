@@ -156,11 +156,11 @@ If you have any suggestions or spot any mistakes, please let us know by creating
 <!--- ##################################################################################################--->
 
 
-## 8. [Restpack](https://restpack.io/html2pdf#) ([Documentation](https://docs.pdfshift.io/))
+## 8. [Restpack](https://restpack.io/html2pdf#) ([Documentation](https://restpack.io/html2pdf/docs))
 
 ![Restpack screenshot](/screenshots/restpack.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://restpack.io/html2pdf/pricing)
 
 
 ![Static Badge](https://img.shields.io/badge/1.000-$9.95-blue?color=2563eb)
@@ -178,7 +178,7 @@ If you have any suggestions or spot any mistakes, please let us know by creating
 <!--- ##################################################################################################--->
 
 
-## 9. [PDFCrowd](https://pdfcrowd.com/) ([Documentation](https://docs.pdfshift.io/))
+## 9. [PDFCrowd](https://pdfcrowd.com/)
 
 ![PDFCrowd screenshot](/screenshots/pdfcrowd.png)
 
@@ -234,167 +234,217 @@ If you have any suggestions or spot any mistakes, please let us know by creating
 <!--- ##################################################################################################--->
 
 
-## 11. [SelectPDF](https://selectpdf.com/html-to-pdf-api/) ([Documentation](https://docs.pdfshift.io/))
+## 11. [SelectPDF](https://selectpdf.com/html-to-pdf-api/)
 
 ![SelectPDF screenshot](/screenshots/selectpdf.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://selectpdf.com/pricing/)
+> SelectPDF is the only API in this list that offers an unlimited plan. This is a great option if you need to convert a lot of documents. Additionaly you can purchase standalone licenses for your server.
 
-
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/2.000-$19.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/5.000-$29.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/20.000-$59.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/50.000-119.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100.000-229.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/unlimited-449.00-yellow)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *NOT PROVIDED*
+
+**Maintainer Remarks**:
+> While SelectPDF does offer an unlimited plan we could not find any information on what the rate limits are or how many concurrent requests are allowed. You might want to reach out to their support before using the unlimited plan since the rate limit could be very low.
 
 
 <!--- ##################################################################################################--->
 
 
-## 12. [PDFBlade](https://pdfblade.com/) ([Documentation](https://docs.pdfshift.io/))
+## 12. [PDFBlade](https://pdfblade.com/) ([Documentation](https://pdfblade.com/docs))
 
 ![PDFBlade screenshot](/screenshots/pdfblade.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Credit Based* [Pricing Page](https://pdfblade.com/#pricing)
+
+> PDFBlade is billied using a credit based system. Credits can be purchased in packages starting at 20 credits for $1.00. The price per credit decreases with the amount of credits you purchase. The more credits you purchase the cheaper they get. Credits roll over to the next month if you do not use them up.
 
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/20-$1.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100-$5.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/250-$10.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/500-$16.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/2.500-$25.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/5.000-$50.00-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *NOT PROVIDED*
 
 
 <!--- ##################################################################################################--->
 
 
-## 13. [PDFMYURL](https://pdfmyurl.com/) ([Documentation](https://docs.pdfshift.io/))
+## 13. [PDFMYURL](https://pdfmyurl.com/)
 
 ![PDFMYURL screenshot](/screenshots/pdfmyurl.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfmyurl.com/plans)
 
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/500-$19.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/1.000-$29.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/2.000-$39.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/5.000-$69.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/10.000-$139.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/20.000-$239.00-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *NOT PROVIDED*
 
 
 <!--- ##################################################################################################--->
 
 
-## 14. [HTMLPDFAPI](https://htmlpdfapi.com/) ([Documentation](https://docs.pdfshift.io/))
+## 14. [HTMLPDFAPI](https://htmlpdfapi.com/) ([Documentation](https://htmlpdfapi.com/documentation/usage))
 
 ![HTMLPDFAPI screenshot](/screenshots/htmlpdfapi.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://htmlpdfapi.com/plans_and_pricing)
+
+> HTMLPDFAPI is using a credit based pricing system. One credit will create a PDF with 0.5MB. A PDF with 2MB in size will consume 4 credits. Credits roll over to the next month if you do not use them up. When credits are purchased as a subscription they will be cheaper.
 
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100-$4.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/500-$8.49-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/1000-$11.72-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/2500-$18.46-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/5000-$26.84-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/10.000-$39.82-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/25.000-$68.64-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/50.000-$104.86-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100.000-$161.27-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *12 requests per second*
+
+**Maintainer Remarks**:
+> We have used the prices for a monthly subscrption of credits. If you purchase credits as a one time purchase they will be more expensive.
 
 <!--- ##################################################################################################--->
 
 
-## 15. [PDFBroker](https://www.pdfbroker.io/) ([Documentation](https://docs.pdfshift.io/))
+## 15. [PDFBroker](https://www.pdfbroker.io/) ([Documentation](https://www.pdfbroker.io/docs))
 
 ![PDFBroker screenshot](/screenshots/pdfbroker.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://www.pdfbroker.io/pricing)
+> Note that all prices are in EURO. If you want to pay in USD you will have to use their RAPIDAPI integration. They are the same as the EURO prices.
 
-
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/200-free-green?color=16a34a)
+![Static Badge](https://img.shields.io/badge/1.500-€8.95-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/20.000-€29.99-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100.000-€99.99-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *NOT PROVIDED*
 
 
 <!--- ##################################################################################################--->
 
 
-## 16. [Cloudlayer](https://cloudlayer.io/) ([Documentation](https://docs.pdfshift.io/))
+## 16. [Cloudlayer](https://cloudlayer.io/) ([Documentation](https://docs.cloudlayer.io/html-to-pdf))
 
 ![Cloudlayer screenshot](/screenshots/cloudlayer.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://cloudlayer.io/pricing)
 
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
-![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706))
+![Static Badge](https://img.shields.io/badge/100-free-green?color=16a34a)
+![Static Badge](https://img.shields.io/badge/10.000-$49.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/20.000-$99.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/100.000-$249.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *60 requests per minute*
 
 <!--- ##################################################################################################--->
 
 
-## 17. [APITemplate](https://apitemplate.io/html-to-pdf-api/) ([Documentation](https://docs.pdfshift.io/))
+## 17. [APITemplate](https://apitemplate.io/html-to-pdf-api/) ([Documentation](https://docs.apitemplate.io/reference/api-reference.html#introduction))
 
 ![APITemplate screenshot](/screenshots/apitemplate.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://apitemplate.io/pricing/)
 
+> APITemplate is primary focused in their template engine. But the offer html to pdf only plans so that is what we are going to list here.
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/50-free-green?color=16a34a)
+![Static Badge](https://img.shields.io/badge/3.000-$29.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/12.000-$69.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/25.000-$139.00-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *NOT PROVIDED*
 
 
 <!--- ##################################################################################################--->
 
 
-## 18. [Sejda](https://www.sejda.com/de/html-pdf-api) ([Documentation](https://docs.pdfshift.io/))
+## 18. [Sejda](https://www.sejda.com/de/html-pdf-api) ([Documentation](https://www.sejda.com/developers#html-pdf-api))
 
 ![Sejda screenshot](/screenshots/sejda.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://www.sejda.com/en/html-pdf-api#pricing)
 
+> Sejda doe not count the amount of PDFs your generate. You can always create an unlimited amount of PDFs. The only limit by the amount of requests per hour and concurrent requests. We have used the maximum amount of requests allowed per hour to calculate the maximum monthly conversions.
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/216.000-$24.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/864.000-$96.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/6.912.000-$768.00-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *4 concurrent requests / up to 48 concurrent requests*
 
+**Maintainer Remarks**:
+> While the idea of only paying for increased rate limits and concurrency sounds great in general keep in mind that the concurrency limit can limit the overall amount of pdfs you can generate. So while you might be able to generate 216.000 PDFs on the basic plan you will not be able to use that volume when your PDFs take longer to generate. 
 
 <!--- ##################################################################################################--->
 
 
-## 19. [PDFco](https://pdf.co/html-to-pdf-api) ([Documentation](https://docs.pdfshift.io/))
+## 19. [PDFco](https://pdf.co/html-to-pdf-api)
 
 ![PDFco screenshot](/screenshots/pdfco.png)
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription + Credit System* [Pricing Page](https://pdfendpoint.com/pricing)
 
+> Pricing is based on the amount of PAGES you generate. So if you generate a 10 page PDF you will be charged for 10 pages.
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/8.250-$9.99-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/18.500-$24.99-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/40.250-$49.99-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/79.925-$99.99-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/241.500-$299.99-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *2requests per second / up to 25 requests per second*
+
+**Maintainer Remarks**:
+
+> PDFco is a service that offers a lot of different PDF related APIs. The HTML to PDF API is just one of them. The pricing is based on the amount of requests you make to all of their APIs. So if you use the HTML to PDF API you can still use the other APIs as well. There also is a credit system that allows you to buy credits and use them for all of their APIs. Credits are used for file uploads and background jobs. I did not include the credit system in the pricing table above since I did not understand it. I guess you will have to contact their support to get more information about it.
 
 
 <!--- ##################################################################################################--->
 
 
-## 20. [HTML2PDF](https://www.html2pdf.co.uk/) ([Documentation](https://docs.pdfshift.io/))
+## 20. [HTML2PDF](https://www.html2pdf.co.uk/) ([Documentation](https://www.html2pdf.co.uk/api-documentation))
 
 ![HTML2PDF screenshot](/screenshots/html2pdf.png)
 
 
-**Pricing**: *Monthly Subscription* [Pricing Page](https://pdfendpoint.com/pricing)
+**Pricing**: *Monthly Subscription* [Pricing Page](https://www.html2pdf.co.uk/plans-and-pricing)
 
 
-![Static Badge](https://img.shields.io/badge/25-free-green?color=16a34a)
-![Static Badge](https://img.shields.io/badge/250-$9.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/1000-$20.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/2500-$40.00-blue?color=2563eb)
+![Static Badge](https://img.shields.io/badge/5000-$70.00-blue?color=2563eb)
 ![Static Badge](https://img.shields.io/badge/custom_plans-available_upon_request-orange?color=d97706)
 
-**Rate Limit**: *240 requests per minute*
+**Rate Limit**: *120 requests per minute*
