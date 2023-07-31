@@ -1,4 +1,4 @@
-# The Ulimate List of HTML to PDF APIs
+# The Ultimate List of HTML to PDF APIs
 
 This list aims to be the ultimate list of HTML to PDF APIs. We have curated this list of the best HTML to PDF APIs based on their ease of use, documentation, and pricing. We also use the community votes from [APIFinder](https://apifinder.com/category/html-or-url-to-pdf) for the ranking.
 
